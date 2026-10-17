@@ -1,9 +1,9 @@
 from time import sleep
 import focar
 
-ONE_METER_TIME = 5
-TURN_TIME = 2
-RETURN_TIME = 3
+ONE_METER_TIME = 7
+TURN_TIME = 2.5
+RETURN_TIME = 3.5
 
 
 def three_point_turn():
